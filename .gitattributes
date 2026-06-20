@@ -1,3 +1,1 @@
-git rm *.ipynb
-git commit -m "remove notebooks from repo"
-git push
+*.ipynb linguist-vendored
